@@ -4,7 +4,7 @@
 
 # Token Radar — pre-token protocols ranked by implied value
 
-An entry for make.fun's **token-radar-01** bounty ("Build the best token launch radar", $1,325 pot).
+An entry for make.fun's [**token-radar-01** bounty](https://make.fun/bounty/token-radar-01) ("Build the best token launch radar", $1,325 pot).
 It ranks protocols whose DefiLlama record shows no token by an implied launch value, and shows
 a reader how to farm each one.
 
